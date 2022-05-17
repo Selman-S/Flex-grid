@@ -1,0 +1,113 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container {
+    width: 100%;
+  }
+
+  header {
+      height: 6vh;
+      
+
+  }
+  .yazi {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 500;
+      font-size: 1rem;
+      letter-spacing: 3px;
+  }
+  .menu {
+      background-color: rgb(0, 191, 255);
+  }
+  .banner {
+      background-color: red;
+      height:14vh ;
+  }
+  section {
+      background-color: yellowgreen;
+      height:60vh;
+  }
+  .bor {
+      border-left: 4px solid gray;
+      border-right: 4px solid gray;
+  }
+  .bol2{
+      text-align: center;
+      color: #fff;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 500;
+      font-size: 1rem;
+      letter-spacing: 3px;
+      
+  }
+  .alt {
+      background-color: tomato;
+      height:7vh;
+  }
+  footer {
+      background-color: rgb(255, 40, 251);
+      height:13vh;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .logo {
+      background-color: aqua;
+  }
+  
+  .col-1 {
+    width: 8.333333%;
+  }
+  
+  .col-2 {
+    width: 16.666667%;
+  }
+  
+  .col-3 {
+    width: 25%;
+  }
+  
+  .col-4 {
+    width: 33.333333%;
+  }
+  
+  .col-5 {
+    width: 41.666667%;
+  }
+  
+  .col-6 {
+    width: 50%;
+  }
+  
+  .col-7 {
+    width: 58.333333%;
+  }
+  
+  .col-8 {
+    width: 66.666667%;
+  }
+  
+  .col-9 {
+    width: 75%;
+  }
+  
+  .col-10 {
+    width: 83.333333%;
+  }
+  
+  .col-11 {
+    width: 91.666667%;
+  }
+  
+  .col-12 {
+    width: 100%;
+  }
